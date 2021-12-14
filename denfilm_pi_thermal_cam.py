@@ -6,7 +6,7 @@ import cv2
 import cmapy
 from screeninfo import get_monitors
 from scipy import ndimage
-
+import pyautogui
 import Settings
 
 class pithermalcam:
@@ -221,5 +221,6 @@ if __name__ == "__main__":
     screensize = monitor1.width, monitor1.height
     print(screensize[0])
     print(screensize[1])
+    piautogui.moveTo(screensize[0]-1, screensize[1]-1)
     thermcam = pithermalcam()  # Instantiate class
     thermcam.display_camera_onscreen()
