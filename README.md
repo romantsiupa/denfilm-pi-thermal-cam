@@ -1,4 +1,12 @@
-Terminal:
+
+Потрібні файли:
+# Settings.py
+# denfilm_pi_thermal_cam.py
+
+Приклад, звідси https://www.raspberrypi.com/news/raspberry-pi-thermal-camera/
+pi_therm_cam.py
+--------------------------------
+
 # sudo nano /boot/config.txt
 
 Edit
