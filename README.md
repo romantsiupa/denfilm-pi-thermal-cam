@@ -7,7 +7,7 @@
 Приклад, звідси https://www.raspberrypi.com/news/raspberry-pi-thermal-camera/
 # pi_therm_cam.py
 
-##############
+Config
 # sudo nano /boot/config.txt
 
 Edit
@@ -24,12 +24,10 @@ Install
 # pip3 install pithermalcam
 # sudo pip3 install -U numpy
 
-Check if this python script works
-# import pithermalcam as ptc
-# ptc.display_camera_live()
-
+Clone repository
 # cd /home/pi/Desktop
 # git clone https://github.com/romantsiupa/denfilm-pi-thermal-cam.git
 
+Run app
 # cd /home/pi/Desktop/denfilm-pi-thermal-cam
 # python3 denfilm_pi_thermal_cam.py
