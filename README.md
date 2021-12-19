@@ -37,4 +37,4 @@ Run app
 
 
 Autostart
-sudo /home/pi/Desktop/назва.py
+#sudo /home/pi/Desktop/назва.py
