@@ -28,6 +28,8 @@ Clone repository
 # cd /home/pi/Desktop
 # git clone https://github.com/romantsiupa/denfilm-pi-thermal-cam.git
 
+Install
+# pip3 install screeninfo
 Run app
 # cd /home/pi/Desktop/denfilm-pi-thermal-cam
 # python3 denfilm_pi_thermal_cam.py
