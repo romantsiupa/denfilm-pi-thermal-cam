@@ -30,6 +30,7 @@ Clone repository
 
 Install
 # pip3 install screeninfo
+# pip install pyautogui
 Run app
 # cd /home/pi/Desktop/denfilm-pi-thermal-cam
 # python3 denfilm_pi_thermal_cam.py
