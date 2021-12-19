@@ -37,4 +37,4 @@ Run app
 
 
 Autostart
-# sudo /home/pi/Desktop/назва.py
+# sudo python3 /home/pi/Desktop/назва.py
