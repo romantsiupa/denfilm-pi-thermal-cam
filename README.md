@@ -34,3 +34,7 @@ Install
 Run app
 # cd /home/pi/Desktop/denfilm-pi-thermal-cam
 # python3 denfilm_pi_thermal_cam.py
+
+
+Autostart
+sudo /home/pi/Desktop/назва.py
