@@ -37,4 +37,11 @@ Run app
 
 
 Autostart
-# sudo python3 /home/pi/Desktop/назва.py
+* Go to /home/pi/
+* Show hiden
+* go to .config
+* create file autorun.desktop
+* edit file
+# [Desktop Entry]
+# Exec=python3 /home/pi/Desktop/назва.py
+
